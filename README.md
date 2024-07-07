@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
-Submitted by: Jessica Chavez
+Submitted by: Daniel Chavez
 
 Time spent: 5 hours spent in total
 
